@@ -1,0 +1,8 @@
+= DoorState
+
+每日進出記錄依小時身分統計
+
+= 存取路徑
+
+https://raw.githubusercontent.com/YMLIB/DoorState/master/data/2018/2018-10-29.json
+
